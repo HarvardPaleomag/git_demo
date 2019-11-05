@@ -1,4 +1,3 @@
 # git_demo
 This is text
-More test
-even more text
+This text should have been here from the beginning
